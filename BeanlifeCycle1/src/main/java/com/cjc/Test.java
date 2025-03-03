@@ -21,6 +21,8 @@ public class Test {
 		
 	System.out.println("new 2added");
 	
+	System.out.println("new 2added");
+	
 	}
 	
 
