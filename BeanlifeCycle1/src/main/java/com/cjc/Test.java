@@ -19,6 +19,8 @@ public class Test {
 		
 	System.out.println("new added");
 		
+	System.out.println("new 2added");
+	
 	}
 	
 
