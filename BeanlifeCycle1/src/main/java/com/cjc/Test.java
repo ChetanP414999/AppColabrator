@@ -13,8 +13,13 @@ public class Test {
 		
 		Kitkat k1=(Kitkat) ap.getBean("k1");
 		System.out.println(k1);
-		ap.registerShutdownHook();	}
+		ap.registerShutdownHook();	
+		
+	System.out.println("hemant added");
+		
 	
+	}
 	
+
 	
 }
