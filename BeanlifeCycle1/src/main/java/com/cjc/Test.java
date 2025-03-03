@@ -15,9 +15,6 @@ public class Test {
 		System.out.println(k1);
 		ap.registerShutdownHook();	
 		
-		System.out.println("Hello... From Chetan");
-	System.out.println("Hello... From Chetan");
-	
 	
 	}
 	
